@@ -56,7 +56,7 @@ msgstr "tallennettu"
 
 #: r2/controllers/api.py:652
 msgid "all other sessions have been logged out"
-msgstr ""
+msgstr "kaikki muut istunnot ovat kirjattu ulos"
 
 #: r2/controllers/api.py:695
 msgid "you should be getting a verification email shortly."
@@ -103,7 +103,7 @@ msgstr "kuvan nimi ei kelpaa"
 #: r2/controllers/api.py:1343
 #, python-format
 msgid "too many images (you only get %d)"
-msgstr "liikaa kuvia (saat vain %d)"
+msgstr "liian monta kuvaa (saat vain %d)"
 
 #: r2/controllers/api.py:1351
 msgid "Invalid image or general image error"
@@ -111,11 +111,11 @@ msgstr "kuva ei kelpaa"
 
 #: r2/controllers/api.py:1904
 msgid "claimed! now go to someone's userpage and give them a present!"
-msgstr ""
+msgstr "varattu! nut mene jonkun toisen sivulle ja anna hanelle lahja!"
 
 #: r2/controllers/api.py:1909
 msgid "claimed!"
-msgstr ""
+msgstr "varattu!"
 
 #: r2/controllers/api.py:1925
 msgid "an email will be sent to that account's address shortly"
@@ -139,19 +139,19 @@ msgstr ""
 
 #: r2/controllers/api_docs.py:17
 msgid "account"
-msgstr ""
+msgstr "tili"
 
 #: r2/controllers/api_docs.py:20 r2/templates/printablebuttons.html:71
 msgid "flair"
-msgstr ""
+msgstr "hohto"
 
 #: r2/controllers/api_docs.py:23
 msgid "links & comments"
-msgstr ""
+msgstr "linkit & kommentit"
 
 #: r2/controllers/api_docs.py:26
 msgid "private messages"
-msgstr ""
+msgstr "yksityiset viestit"
 
 #: r2/controllers/api_docs.py:29
 msgid "moderation"
